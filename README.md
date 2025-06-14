@@ -16,8 +16,8 @@ A simple Python chatbot powered by Google's Gemini 1.5 Flash model using the `go
 ### 1. Clone or Download the Project
 
 ```bash
-git clone <your-repo-url>
-cd <project-directory>
+git clone git@github.com:JaaJPlayz/ai-simple.git
+cd ai-simple
 ```
 
 ### 2. Set Up Virtual Environment
