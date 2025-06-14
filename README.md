@@ -1,4 +1,4 @@
-````markdown
+
 # Gemini Chatbot Console App
 
 A simple Python chatbot powered by Google's Gemini 1.5 Flash model using the `google.generativeai` API.
@@ -111,8 +111,5 @@ quit? [y/n]: n
 ## License
 
 This project is open source under the [MIT License](LICENSE).
-
-```
-
 
 ```
