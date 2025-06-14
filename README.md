@@ -74,6 +74,12 @@ Activate the virtual environment (if not already active):
 .venv\Scripts\activate
 ```
 
+## Install the dependencies:
+
+```bash
+pip install -r dev-requirements.txt
+```
+
 Run the chatbot:
 
 ```bash
@@ -108,5 +114,5 @@ This project is open source under the [MIT License](LICENSE).
 
 ```
 
-Let me know if you want a `requirements.txt` or `.env` support added.
+
 ```
