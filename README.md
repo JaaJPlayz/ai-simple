@@ -18,7 +18,7 @@ A simple Python chatbot powered by Google's Gemini 1.5 Flash model using the `go
 ```bash
 git clone <your-repo-url>
 cd <project-directory>
-````
+```
 
 ### 2. Set Up Virtual Environment
 
